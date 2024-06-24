@@ -22,9 +22,11 @@ margin-top: 2%;
 font-style: italic;
 display: flex;
 justify-content: space-between;
-width: 60%;
+width: 80%;
+span{
+    font-weight: bold;
 
-
+}
 }
 .goBack {
 background-color: #76a5af;
